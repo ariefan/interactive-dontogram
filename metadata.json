@@ -1,0 +1,5 @@
+{
+  "name": "DentalDash",
+  "description": "A comprehensive, interactive Odontogram component for modern dental applications, featuring precise surface mapping, condition tracking, and a clean Shadcn-inspired UI.",
+  "requestFramePermissions": []
+}
